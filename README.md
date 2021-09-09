@@ -84,9 +84,9 @@ No prerequisites required.
    ```sh
    git clone https://github.com/uvrays123/Tic-Tac-Toe-AI
    ```
-2. Install the necessary packages
+2. Install NPM packages
   ```sh
-  npm install
+    npm install
   ```
 
 <!-- CONTACT -->
