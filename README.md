@@ -94,7 +94,7 @@ No prerequisites required.
 
 Chris Serrao - https://www.linkedin.com/in/chris-serrao-64360a199/ - cserrao@umass.edu
 
-Project Link: [https://github.com/uvrays123/Twitter-Kafka](https://github.com/uvrays123/Tic-Tac-Toe-AI)
+Project Link: [https://github.com/uvrays123/Tic-Tac-Toe-AI](https://github.com/uvrays123/Tic-Tac-Toe-AI)
 
 
 
